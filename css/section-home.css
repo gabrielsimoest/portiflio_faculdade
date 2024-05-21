@@ -1,0 +1,15 @@
+#Home{
+    border-bottom: solid 1px;
+}
+
+#Home div{
+    margin: 3em;
+}
+
+#Home div *{
+    margin-top: 1em;
+}
+
+#Home div button{
+    padding: 1em;
+}

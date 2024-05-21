@@ -1,0 +1,40 @@
+#Projects .projects-list{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+
+#Projects article{
+    border-radius: 2em;
+    margin: 1em;
+    height: 200px;
+    width: 300px;
+    text-align: center;
+    background-color: gray;
+    color: white;
+    
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+}
+
+#Projects article a{
+    color: white;
+    text-decoration: underline;
+}
+
+#Projects article a:hover{
+    color: blue;
+}
+
+#Projects .texts{
+    margin: 3em;
+}
+
+#Projects {
+    border-bottom: 1px solid;
+}

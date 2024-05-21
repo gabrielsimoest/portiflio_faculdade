@@ -1,0 +1,23 @@
+#Skills{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    border-bottom: solid 1px;
+}
+
+#Skills img{
+    width: 17%;
+    max-width: 70px;
+    margin: 2em;
+}
+
+#Skills .texts{
+    margin: 3em;
+}
+
+#Skills .skills-images{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
