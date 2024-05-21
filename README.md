@@ -9,8 +9,8 @@ O portfólio é uma aplicação web projetada para apresentar informações pess
 ## Tecnologias Utilizadas
 
 - **HTML5:** Utilização de elementos semânticos para estruturar o conteúdo de maneira clara e acessível.
-- **CSS3:** Estilização do layout com técnicas modernas, incluindo Flexbox e Grid Layout, além de animações e transições.
-- **JavaScript:** Interatividade e dinamismo para a página, incluindo manipulação do DOM e efeitos visuais.
+- **CSS3:** Estilização do layout com técnicas modernas, incluindo Flexbox e Grid Layout.
+- **JavaScript:** Interatividade e dinamismo para a página, incluindo manipulação do DOM para efeitos visuais.
 
 ## Boas Práticas Adotadas
 
